@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="platform_vendor_gms" fetch="https://gitlab.com/hentaiOS/platform_vendor_gms/"  />
+
+<project path="vendor/gapps/" name="vendor_gapps" revision="Rika" remote="platform_vendor_gms" />
+
+</manifest>
