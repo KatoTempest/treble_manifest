@@ -2,5 +2,5 @@
 <manifest>
     <remote name="platform_vendor_gms" fetch="https://gitlab.com/KatoTempest/" />
 
-<project path="vendor/gms" name="platform_vendor" revision="queenslave" remote="platform_vendor_gms" />
+<project path="vendor/gms" name="platform_vendor_gms" revision="queenslave" remote="platform_vendor_gms" />
 </manifest>
